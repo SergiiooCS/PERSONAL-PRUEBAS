@@ -1,0 +1,39 @@
+-- MERCEDES
+Mercedes Benz A 180
+Mercedes Benz CLA 45
+Mercedes Benz S 560 
+
+-- FORD
+Ford Fiesta ST
+Ford Kuga
+Ford Focus
+
+-- SKODA
+Skoda Fabia
+Skoda Octavia
+Skoda Kamiq
+
+-- OPEL
+Opel Corsa
+Opel Astra
+Opel Insignia
+
+-- BMW
+BMW X3
+BMW X1
+BMW 118
+
+-- AUDI
+Audi Q2
+Audi A1
+Audi A4
+
+-- PEUGEOT
+Peugeot 206
+Peugeot 308
+Peugeot 508
+
+-- VOLKSWAGEN
+Volkswagen Golf
+Volkswagen Polo
+volkswagen Caddy Maxi
