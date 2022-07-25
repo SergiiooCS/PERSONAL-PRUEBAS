@@ -16,16 +16,26 @@ body{
     width: 35%;
 }
 
-#pSection1{
+
+#pSection{
     text-align: center;
-    width: 60%;
-    margin-left: 30%;
+    width: 100%;
     font-size: 28px;
+    margin-left: 5%;
 }
 
 #imgSection1{
-    float: left;
-    width: 30%;
+    width: 100%;
+    margin-left: 5%;
+}
+
+#imgSection2{
+    width: 100%;
+    margin-left: 5%;
+}
+
+#imgSection3{
+    width: 100%;
     margin-left: 5%;
 }
 
