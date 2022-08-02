@@ -1,12 +1,25 @@
 /* PRINCIPAL CSS */
+
+
+
+
+/* INDEX.HTML */
 body{
     background-color: antiquewhite;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
 
-#h1Header, #pHeader{
+/* TITULO PRINCIPAL/CABECERA */
+#h1Header{
     text-align: center;
+}
+
+#pHeader{
+    text-align: center;
+    font-size: 22px;
+    width: 80%;
+    margin-left: 10%;
 }
 
 #FerrariHeader{
@@ -17,28 +30,79 @@ body{
 }
 
 
-#pSection{
+/* SECTIONS INDEX */
+/* SECTION IMG */
+#pSection-Index{
     text-align: center;
     width: 100%;
     font-size: 28px;
     margin-left: 5%;
 }
 
-#imgSection1{
+#imgSection1-Index{
     width: 100%;
     margin-left: 5%;
 }
 
-#imgSection2{
+#section2-Index{
+    margin-top: 3%;
+}
+
+#imgSection2-Index{
     width: 100%;
     margin-left: 5%;
 }
 
-#imgSection3{
+#section3-Index{
+    margin-top: 3%;
+}
+
+#imgSection3-Index{
     width: 100%;
     margin-left: 5%;
 }
 
+#section4-Index{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+/* SECTION-ICONS */
+#AppIconImg-Index{
+    width:50%;
+    margin-left: 25%;
+}
+#AppIconP-Index{
+    text-align: center;
+    font-size: 24px;
+    margin-left: 0%;
+
+}
+#SupportIconImg-Index{
+    width:50%;
+    margin-left: 25%;
+}
+#SupportIconP-Index{
+    text-align: center;
+    font-size: 24px;
+    margin-left: 0%;
+
+}
+#SOIconImg-Index{
+    width:50%;
+    margin-left: 25%;
+}
+#SOIconP-Index{
+    text-align: center;
+    font-size: 24px;
+    margin-left: 0%;
+}
+
+
+
+
+/* FOOTER */
 footer{
     margin-top: auto;
     text-align: center;
